@@ -5,6 +5,18 @@ A practical, experience-driven roadmap for modern software testing and AI-powere
 # QA Automation Engineer: 6-Month Study Plan & Roadmap
 transition from manual to automation Engineer
 
+## Feedback & Contributions
+
+We welcome suggestions, corrections, and new ideas.
+
+To share feedback:
+1. Click on the **Issues** tab
+2. Select **New Issue**
+3. Choose “Roadmap Feedback”
+4. Describe your suggestion
+
+All constructive input is appreciated.
+
 ## Citation
 If you reference this roadmap, please cite:
 
